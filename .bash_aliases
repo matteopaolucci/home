@@ -1,0 +1,10 @@
+# Custom aliases
+alias rm='rm -Iv'
+alias cls='clear'
+alias free='free -h'
+alias df='df -h'
+alias du='du -h'
+alias mkdir='mkdir -p'
+alias yout='youtube-dl -x --audio-format mp3 --audio-quality 0'
+alias gradlew='./gradlew'
+alias xclip='xclip -selection clipboard'
