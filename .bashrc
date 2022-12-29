@@ -133,3 +133,4 @@ LFCD="/home/matteo/.config/lf/lfcd.sh" # pre-built binary, make sure to use abso
 if [ -f "$LFCD" ]; then
     source "$LFCD"
 fi
+#
